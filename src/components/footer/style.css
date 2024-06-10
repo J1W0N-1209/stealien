@@ -1,0 +1,53 @@
+.DR {
+  display: flex;
+  flex-direction: row;
+}
+
+.DC {
+  display: flex;
+  flex-direction: column;
+}
+
+.Footer_Container {
+  width: 100vw;
+  height: 350px;
+  background-color: #F8F8F8;
+  font-size: 20px;
+  font-weight: 300;
+  padding: 50px 50px 50px 50px;
+}
+
+.gapgap {
+  gap: 50px;
+}
+
+.gap {
+  gap: 10px;
+}
+
+.Footer_Layer {
+  justify-content: space-between;
+}
+
+.Footer_Layout {
+  justify-content: space-between
+};
+
+.Footer_Line {
+  width: 300px;
+  height: 1px;
+  background-color: #CCCCCC;
+}
+
+.Imgs {
+  gap: 20px;
+}
+
+.DDR {
+  justify-content: start;
+  margin-top: 40px;
+}
+
+.DDDR {
+  margin-right: 50px;
+}
